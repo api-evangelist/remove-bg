@@ -1,4 +1,16 @@
 aid: remove-bg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/remove-bg.png
 name: Remove.bg
 description: "Image Background removal"
 url: https://www.remove.bg/api
