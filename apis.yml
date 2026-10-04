@@ -39,7 +39,6 @@ apis:
   - name: Remove.bg
     description: "Image Background removal"
     humanURL: https://www.remove.bg/api
-    baseURL: https://www.remove.bg/api
     tags:
       - Photography
     properties:
