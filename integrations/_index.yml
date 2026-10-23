@@ -96,3 +96,16 @@
     detected: '2026-10-22'
   status: not-a-workflow
   arazzo: null
+- slug: remove-bg-adobe-photoshop-own
+  label: Adobe Photoshop (own)
+  partner: adobe-photoshop
+  partner_name: Adobe Photoshop (own)
+  category: Adobe Exchange Creative Cloud listing (Photoshop)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/cc/6fddf582/remove.bg-for-adobe-photoshop---beta-version
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
